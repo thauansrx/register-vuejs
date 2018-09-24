@@ -1,4 +1,4 @@
-# register
+# register-vuejs
 
 > A Vue.js project
 
